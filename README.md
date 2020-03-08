@@ -16,6 +16,7 @@ Having a working project by the end of march
 - (optionnal) The option to compress files first before sending them
 - Linux and Windows support
 ## Current progress
-- We have a working lossless network written in c++
+- We have a working lossless P2P network written in c++ with the asio library
 - We are adding the remote shell execution feature
 - The Gui will be available next week for tests
+##### We will Publish our work by  the end of march or the start of april
