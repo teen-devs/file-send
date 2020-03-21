@@ -19,4 +19,5 @@ Having a working project by the end of march
 - We have a working lossless P2P network written in c++ with the asio library
 - We are adding the remote shell execution feature
 - The Gui will be available next week for tests
+- Our server now handles more than one connection using thread pools
 ##### We will Publish our work by  the end of march or the start of april
